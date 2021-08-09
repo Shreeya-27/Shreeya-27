@@ -1,5 +1,5 @@
 <h2> 👋 Hi, I’m @Shreeya-27 </h2>
-<li> 👀 I’m interested in ... Web Development -- UI/UX Design -- Fullstack </li>
+<li> 👀 I’m interested in ... Web Development -- UI/UX Design -- MERN Stack </li>
 <li> 🌱 I’m currently working as... Frontend UI/UX Developer </li>
 <li> 📫 How to reach me ... https://www.linkedin.com/in/shreeya-naik/ =< 🔹LinkedIn🔹 </li>
 
